@@ -3,7 +3,7 @@
 Since this game contains my personal IP and is a monetary source of income for me, this repository is just to talk about the game (and is not open sourced) and link you to the AppStore.
 <br>Link: https://apps.apple.com/in/app/dodgescape/id1516671311
 
-DodgEscape is an iOS/iPadOS game wherein your main aim is to avoid obstacles. Swipe up to change the shape, swipe down to change the color. The Bar obstacle (Orange colored) can be avoided in any form, color or shape.
+DodgEscape is an iOS/iPadOS game, wherein your main aim is to avoid obstacles. Swipe up to change the shape, swipe down to change the color. The Bar obstacle (Orange colored) can be avoided in any form, color or shape.
 In the Classic Mode, you must either match the shape or color to overcome the Target obstacle (Purple colored, along with a shape). BONUS: You will earn Bonus points when you match the shape and color when encountering a Shape obstacle in this mode!
 In the Perfect Mode, you must match the shape and color to overcome the Shape obstacle (Purple colored, along with a shape).
 
